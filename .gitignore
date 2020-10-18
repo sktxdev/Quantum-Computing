@@ -127,3 +127,30 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Apple folder stuff
+.DS_Store
+
+*.swp
+*.map
+
+config.rst
+*.iml
+/.project
+/.pydevproject
+
+package-lock.json
+geckodriver.log
+*.iml
+
+# jetbrains IDE stuff
+*.iml
+.idea/
+
+# vscode IDE stuff
+*.code-workspace
+.history
+.vscode
+
+
