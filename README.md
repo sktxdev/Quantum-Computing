@@ -1,21 +1,28 @@
 # QCStudyGroup
 QC Study Group Github Repository
 
-# Resources
+## Resources
 
-    [Study Resources]
-        (https://github.com/sktxdev/QCStudyGroup/blob/main/Study%20Resources.md)
+| Title | Study Resources |
+| ------| --------------- |
+| QISKIT Book | https://qiskit.org/textbook/preface.html  |
+| Quantum algorithms for NLP: LSA, QSFA and CA | https://www.youtube.com/watch?v=d-Lfdfy-xw8 |
 
-Essentially as topics come up, I'll do a deep dive if I dont understand it, until I'm satisfyed with my knowledge, then resurface and continue. Sometimes this can turn into as little as one slide or a couple of minutes of watching a segment of the video and a couple of days of filling in background knowledge.
 
+Add to this list as you see fit.
+
+
+My technique for learning.
+Watch a video on the topic I'm interested on, and do a deep dive if I dont understand something, until I'm satisfyed with my knowledge, then resurface and continue. Sometimes this can turn into as little as one slide or a couple of minutes of watching a segment of the video and a couple of days of filling in background knowledge.
+
+
+## General
 
 For code editing I'll try to add juypter notebooks, but will use vscode for editing things like readme's and gitignore etc.,. 
 
-If you wish to contribute on the markdown (this file), feel free to do so. I recommend a markdown previewer. 
+If you wish to contribute on the markdown (this file), feel free to do so. I recommend a markdown previewer such as Markdown Preview Enhanced if you're using vscode.
 
-VSCode addons that might be useful:
 
-    Markdown Preview Enhanced
 
     
 
