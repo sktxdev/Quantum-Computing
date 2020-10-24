@@ -3,11 +3,12 @@ QC Study Group Github Repository
 
 ## Resources
 
-| Title | Study Resources |
-| ------| --------------- |
-| QISKIT Book | https://qiskit.org/textbook/preface.html  |
-| Quantum algorithms for NLP: LSA, QSFA and CA | https://www.youtube.com/watch?v=d-Lfdfy-xw8 |
-| Awesome Quantum Machine Learning | https://github.com/krishnakumarsekar/awesome-quantum-machine-learning (Thanks Ryan)|
+| Title | Study Resources | Contributor |
+| ------| --------------- | ----------- |
+| QISKIT Book | https://qiskit.org/textbook/preface.html  | |
+| Quantum algorithms for NLP: LSA, QSFA and CA | https://www.youtube.com/watch?v=d-Lfdfy-xw8 | |
+| Awesome Quantum Machine Learning | https://github.com/krishnakumarsekar/awesome-quantum-machine-learning (Thanks Ryan)| |
+| Quantum Logic and Probability Theory | https://plato.stanford.edu/entries/qt-quantlog/ | Ryan30 |
 
 Add to this list as you see fit.
 
