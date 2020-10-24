@@ -1,4 +1,4 @@
-#I had access control issues but when running the install command but it worked after using 
+#I had access control issues when running the install command but it worked after using 
 #the --user option
 pip3 install qiskit --user
 
