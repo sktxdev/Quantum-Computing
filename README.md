@@ -10,6 +10,13 @@ QC Study Group Github Repository
 | Awesome Quantum Machine Learning | https://github.com/krishnakumarsekar/awesome-quantum-machine-learning (Thanks Ryan)| |
 | Quantum Logic and Probability Theory | https://plato.stanford.edu/entries/qt-quantlog/ | Ryan30 |
 | More Rigorous Overview of the Maths and Computer Science behind the algorithms | https://lapastillaroja.net/wp-content/uploads/2016/09/Intro_to_QC_Vol_1_Loceff.pdf | |
+|Michael A. Nielsen & Isaac L. Chuang, “Quantum Computation and Quantum Information”
+http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf |
+|Noson S. Yanofsky & Mirco A. Mannucci, “Quantum Computing for Computer Scientist”
+https://www.mobt3ath.com/uplode/book/book-71712.pdf |
+|Abhijith J., et al., “Quantum Algorithm Implementations for Beginners”
+https://arxiv.org/pdf/1804.03719.pdf |
+|https://www.youtube.com/channel/UCq9B8tT3oXl8BSyaoBPQXQw/playlists |
 
 Add to this list as you see fit.
 
