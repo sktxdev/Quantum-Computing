@@ -159,3 +159,7 @@ geckodriver.log
 /.vs/slnx.sqlite
 /.vs/QCStudyGroup/v16/.suo
 .vs/VSWorkspaceState.json
+
+
+# temp files for animations
+*/temp_file.png
