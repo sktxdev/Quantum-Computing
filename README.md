@@ -9,6 +9,7 @@ QC Study Group Github Repository
 | Quantum algorithms for NLP: LSA, QSFA and CA | https://www.youtube.com/watch?v=d-Lfdfy-xw8 | |
 | Awesome Quantum Machine Learning | https://github.com/krishnakumarsekar/awesome-quantum-machine-learning (Thanks Ryan)| |
 | Quantum Logic and Probability Theory | https://plato.stanford.edu/entries/qt-quantlog/ | Ryan30 |
+| More Rigorous Overview of the Maths and Computer Science behind the algorithms | https://lapastillaroja.net/wp-content/uploads/2016/09/Intro_to_QC_Vol_1_Loceff.pdf | |
 
 Add to this list as you see fit.
 
