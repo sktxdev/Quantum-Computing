@@ -13,7 +13,7 @@ QC Study Group Github Repository
 |Michael A. Nielsen & Isaac L. Chuang, “Quantum Computation and Quantum Information”| http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf |
 |Noson S. Yanofsky & Mirco A. Mannucci, “Quantum Computing for Computer Scientist”| https://www.mobt3ath.com/uplode/book/book-71712.pdf |
 |Abhijith J., et al., “Quantum Algorithm Implementations for Beginners”|https://arxiv.org/pdf/1804.03719.pdf |
-|https://www.youtube.com/channel/UCq9B8tT3oXl8BSyaoBPQXQw/playlists |
+|Professor Vazirani's Video |https://www.youtube.com/channel/UCq9B8tT3oXl8BSyaoBPQXQw/playlists |
 
 Add to this list as you see fit.
 
