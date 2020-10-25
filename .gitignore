@@ -154,3 +154,7 @@ geckodriver.log
 .vscode
 
 
+/.vs/QCStudyGroup/v16/TestStore/0/000.testlog
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/QCStudyGroup/v16/.suo
