@@ -14,6 +14,7 @@ QC Study Group Github Repository
 |Noson S. Yanofsky & Mirco A. Mannucci, “Quantum Computing for Computer Scientist”| https://www.mobt3ath.com/uplode/book/book-71712.pdf |
 |Abhijith J., et al., “Quantum Algorithm Implementations for Beginners”|https://arxiv.org/pdf/1804.03719.pdf |
 |Professor Vazirani's Video |https://www.youtube.com/channel/UCq9B8tT3oXl8BSyaoBPQXQw/playlists |
+|Guest Speaker Scott Aaronson, "Quantum Computing Since Democritus"| https://github.com/dmvaldman/library/blob/master/computer%20science/Aaronson%20-%20Quantum%20Computing%20Since%20Democritus.pdf|
 
 Add to this list as you see fit.
 
